@@ -11,6 +11,9 @@ I saw a code of a DQN agent in the repository of ROBOTIS. But to create a better
 ## Libraries
 
 [Pytorch]
+<br>
+pip install torchvision --user<br>
+pip3 install torchvision --user
 
 ## ROS 
 You can find the packages the I used here:
