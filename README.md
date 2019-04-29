@@ -19,9 +19,9 @@ You can find the packages the I used here:
 - https://github.com/ROBOTIS-GIT/turtlebot3_simulations
 
 ```
-cd ~/catkin_ws/src/
-git clone link_git
-cd ~/catkin_ws && catkin_make
+$ cd ~/catkin_ws/src/
+$ git clone https://github.com/dovanhuong/project.git
+$ cd ~/catkin_ws && catkin_make
 ```
 
 To install my package you will do the same from above.
